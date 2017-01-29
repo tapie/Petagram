@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="fullName">Nombre Completo</string>
+    <string name="birthDate">Fecha de Nacimiento</string>
+    <string name="phoneNumber">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="description">Descripción de Contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="edit">Editar Información</string>
+    <string name="pFullName">fullName</string>
+    <string name="pBirthDate">birthDate</string>
+    <string name="pPhoneNumber">phoneNumber</string>
+    <string name="pEmail">email</string>
+    <string name="pDescription">description</string>
+    <string name="title1">Ingrese Información</string>
+    <string name="title2">Confirmar Información</string>
+    <string name="pProcess">process</string>
+</resources>
